@@ -1,0 +1,2 @@
+CMP1001|sejal|Street light not working|High|Street light on main road has been off for 5 days|Sector 5, City Center|Electricity|2026-07-20|11:35:50|Accepted|Engineer assigned for inspection
+CMP1002|sejal|waste collection|High|waste near my house|panipat|Garbage|2026-07-20|11:40:07|Resolved|Not Reviewed
